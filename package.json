@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-data-blocks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Do not embed large data in code",
   "keywords": [
     "json",
@@ -9,7 +9,7 @@
     "eslintplugin",
     "eslint-plugin"
   ],
-  "author": "S Anand <s.anand@gramener.com>",
+  "author": "S Anand <root.node@gmail.com>",
   "main": "./lib/index.js",
   "exports": "./lib/index.js",
   "scripts": {
@@ -42,7 +42,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gramener/eslint-plugin-no-data-blocks.git"
+    "url": "git+https://github.com/sanand0/eslint-plugin-no-data-blocks.git"
   },
   "license": "MIT"
 }
